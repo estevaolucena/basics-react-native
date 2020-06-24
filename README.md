@@ -25,11 +25,17 @@ cd basics-react-native
 yarn install
 
 # Run the project
-yarn start:dev
+yarn start
+
+# Run the project in a emulator
+yarn android or yarn ios
 
 # For run the tests suits
-yarn start:test
+yarn test
 ```
+For more details about setup an mobile emulator
+
+[Ambiente React Native](https://react-native.rocketseat.dev/)
 
 
 Made with ♥ by Estevão Lucena :wave: [Get in touch!](https://www.linkedin.com/in/estevaolucena/)
